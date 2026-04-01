@@ -2,7 +2,7 @@
 
 
 - 🎓 I'm a **Computer Science Major** at the Gdańsk university of technology (2rd year)
-- 🌱 I’m currently working on TypeRacer and Warehouse-Wars
+- 🌱 I’m currently working on [TypeRacer](https://github.com/ZambrzyckiBartosz/Type-Racer) and [Warehouse-Wars](https://github.com/ZambrzyckiBartosz/Warehouse-Wars)
 - 👨‍💻 All of my projects are available at [https://github.com/ZambrzyckiBartosz](https://github.com/ZambrzyckiBartosz)
 - 📫 You can reach me at: **zambrzyckibartosz709@gmail.com**
 
