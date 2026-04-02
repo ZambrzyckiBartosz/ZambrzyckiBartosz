@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-header-banner.png" alt="GitHub Profile Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Bartosz</h1>
 
 
